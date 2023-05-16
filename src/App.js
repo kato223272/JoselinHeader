@@ -5,14 +5,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header" >
-    <h4 className="datos">
-
-      Datos del cliente:
+    <h5 className="datos">
+      Datos de la empresa Carvaz:  
+    </h5>
+    <h6 className="datos">
+      Nombre: Legan Andres Godinez 
       <br></br>
-      hola
-    </h4>
-       
-
+      Dirección: Roma Mty     
+    </h6>
+    <h6 className="telefono">
+     Tel: 962 147 5147  
+      </h6>
       </header>
 
     </div>

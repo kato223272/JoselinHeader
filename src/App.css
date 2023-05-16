@@ -6,11 +6,19 @@
 
 .App-header {
   background-color: rgb(10, 59, 73);
-  height: 50px;
+  height: 110px;
+  text-align: left;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-
   
+}
+.telefono{
+  margin-right: 5%;
+  margin-top: -5%;
+  text-align: right;
+  align-items: center;
+  color: white;
+
 }
