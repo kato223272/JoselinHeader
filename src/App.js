@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header" >
-    <h4 className="App- datos">
+    <h4 className="datos">
 
       Datos del cliente:
       <br></br>
